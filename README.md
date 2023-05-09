@@ -3,7 +3,10 @@ createApp(App).mount('#app')
 App.vue
 
 1. 普通标签
+
+```html
 <div>hello vue</div>
+```
 
 mount -> createVNode -> render -> patch
 
